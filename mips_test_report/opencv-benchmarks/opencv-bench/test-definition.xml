@@ -1,0 +1,22 @@
+<?xml version="1.0"?>
+<!--Phoronix Test Suite v4.4.0m1 (Forsand)-->
+<PhoronixTestSuite>
+  <TestInformation>
+    <Title>OpenCV benchmark</Title>
+    <AppVersion>3.3.0</AppVersion>
+    <Description>Stress benchmark tests to measure  time consumed by the opencv libraries installed</Description>
+    <ResultScale>Seconds</ResultScale>
+    <Proportion>LIB</Proportion>
+    <TimesToRun>3</TimesToRun>
+  </TestInformation>
+  <TestProfile>
+    <Version>2.0</Version>
+    <SupportedPlatforms>Linux</SupportedPlatforms>
+    <SoftwareType>Utility</SoftwareType>
+    <TestType>Processor</TestType>
+    <License>Free</License>
+    <Status>Verified</Status>
+    <ExternalDependencies>opencv-devel</ExternalDependencies>
+    <Maintainer>Victor Rodriguez</Maintainer>
+  </TestProfile>
+</PhoronixTestSuite>

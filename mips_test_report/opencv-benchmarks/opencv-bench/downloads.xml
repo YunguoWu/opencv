@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<!--Phoronix Test Suite v4.4.0m1 (Forsand)-->
+<PhoronixTestSuite>
+  <Downloads>
+    <Package>
+      <URL>https://github.com/VictorRodriguez/opencv-benchmarks/archive/2.0.tar.gz</URL>
+      <MD5>9ed96e1d4a10a58fd46f1ef4662b3f10</MD5>
+      <FileSize>37019</FileSize>
+    </Package>
+  </Downloads>
+</PhoronixTestSuite>
